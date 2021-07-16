@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Axiomattic a I.T student from Melbourne Australia
+- 👀 I’m interested in learning how to code and posting my projects
+- 🌱 I’m currently learning java and python
+- 📫 How to reach me matt.dickson14@gmail.com
